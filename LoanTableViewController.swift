@@ -17,6 +17,7 @@ class LoanTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("hi")
 
     }
     
